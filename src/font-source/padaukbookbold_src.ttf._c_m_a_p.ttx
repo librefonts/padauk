@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="0" platEncID="0" language="0">
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="numbersign"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="dollar"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="percent"/><!-- PERCENT SIGN -->
+      <map code="0x26" name="ampersand"/><!-- AMPERSAND -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon"/><!-- COLON -->
+      <map code="0x3b" name="semicolon"/><!-- SEMICOLON -->
+      <map code="0x3c" name="less"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="equal"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="greater"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x40" name="at"/><!-- COMMERCIAL AT -->
+      <map code="0x41" name="A"/><!-- LATIN CAPITAL LETTER A -->
+      <map code="0x42" name="B"/><!-- LATIN CAPITAL LETTER B -->
+      <map code="0x43" name="C"/><!-- LATIN CAPITAL LETTER C -->
+      <map code="0x44" name="D"/><!-- LATIN CAPITAL LETTER D -->
+      <map code="0x45" name="E"/><!-- LATIN CAPITAL LETTER E -->
+      <map code="0x46" name="F"/><!-- LATIN CAPITAL LETTER F -->
+      <map code="0x47" name="G"/><!-- LATIN CAPITAL LETTER G -->
+      <map code="0x48" name="H"/><!-- LATIN CAPITAL LETTER H -->
+      <map code="0x49" name="I"/><!-- LATIN CAPITAL LETTER I -->
+      <map code="0x4a" name="J"/><!-- LATIN CAPITAL LETTER J -->
+      <map code="0x4b" name="K"/><!-- LATIN CAPITAL LETTER K -->
+      <map code="0x4c" name="L"/><!-- LATIN CAPITAL LETTER L -->
+      <map code="0x4d" name="M"/><!-- LATIN CAPITAL LETTER M -->
+      <map code="0x4e" name="N"/><!-- LATIN CAPITAL LETTER N -->
+      <map code="0x4f" name="O"/><!-- LATIN CAPITAL LETTER O -->
+      <map code="0x50" name="P"/><!-- LATIN CAPITAL LETTER P -->
+      <map code="0x51" name="Q"/><!-- LATIN CAPITAL LETTER Q -->
+      <map code="0x52" name="R"/><!-- LATIN CAPITAL LETTER R -->
+      <map code="0x53" name="S"/><!-- LATIN CAPITAL LETTER S -->
+      <map code="0x54" name="T"/><!-- LATIN CAPITAL LETTER T -->
+      <map code="0x55" name="U"/><!-- LATIN CAPITAL LETTER U -->
+      <map code="0x56" name="V"/><!-- LATIN CAPITAL LETTER V -->
+      <map code="0x57" name="W"/><!-- LATIN CAPITAL LETTER W -->
+      <map code="0x58" name="X"/><!-- LATIN CAPITAL LETTER X -->
+      <map code="0x59" name="Y"/><!-- LATIN CAPITAL LETTER Y -->
+      <map code="0x5a" name="Z"/><!-- LATIN CAPITAL LETTER Z -->
+      <map code="0x5b" name="bracketleft"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="backslash"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="bracketright"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="asciicircum"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="underscore"/><!-- LOW LINE -->
+      <map code="0x60" name="grave"/><!-- GRAVE ACCENT -->
+      <map code="0x61" name="a"/><!-- LATIN SMALL LETTER A -->
+      <map code="0x62" name="b"/><!-- LATIN SMALL LETTER B -->
+      <map code="0x63" name="c"/><!-- LATIN SMALL LETTER C -->
+      <map code="0x64" name="d"/><!-- LATIN SMALL LETTER D -->
+      <map code="0x65" name="e"/><!-- LATIN SMALL LETTER E -->
+      <map code="0x66" name="f"/><!-- LATIN SMALL LETTER F -->
+      <map code="0x67" name="g"/><!-- LATIN SMALL LETTER G -->
+      <map code="0x68" name="h"/><!-- LATIN SMALL LETTER H -->
+      <map code="0x69" name="i"/><!-- LATIN SMALL LETTER I -->
+      <map code="0x6a" name="j"/><!-- LATIN SMALL LETTER J -->
+      <map code="0x6b" name="k"/><!-- LATIN SMALL LETTER K -->
+      <map code="0x6c" name="l"/><!-- LATIN SMALL LETTER L -->
+      <map code="0x6d" name="m"/><!-- LATIN SMALL LETTER M -->
+      <map code="0x6e" name="n"/><!-- LATIN SMALL LETTER N -->
+      <map code="0x6f" name="o"/><!-- LATIN SMALL LETTER O -->
+      <map code="0x70" name="p"/><!-- LATIN SMALL LETTER P -->
+      <map code="0x71" name="q"/><!-- LATIN SMALL LETTER Q -->
+      <map code="0x72" name="r"/><!-- LATIN SMALL LETTER R -->
+      <map code="0x73" name="s"/><!-- LATIN SMALL LETTER S -->
+      <map code="0x74" name="t"/><!-- LATIN SMALL LETTER T -->
+      <map code="0x75" name="u"/><!-- LATIN SMALL LETTER U -->
+      <map code="0x76" name="v"/><!-- LATIN SMALL LETTER V -->
+      <map code="0x77" name="w"/><!-- LATIN SMALL LETTER W -->
+      <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
+      <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
+      <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0x7b" name="braceleft"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="braceright"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="asciitilde"/><!-- TILDE -->
+      <map code="0xd7" name="multiply"/><!-- MULTIPLICATION SIGN -->
+      <map code="0x1000" name="u1000"/><!-- MYANMAR LETTER KA -->
+      <map code="0x1001" name="u1001"/><!-- MYANMAR LETTER KHA -->
+      <map code="0x1002" name="u1002"/><!-- MYANMAR LETTER GA -->
+      <map code="0x1003" name="u1003"/><!-- MYANMAR LETTER GHA -->
+      <map code="0x1004" name="u1004"/><!-- MYANMAR LETTER NGA -->
+      <map code="0x1005" name="u1005"/><!-- MYANMAR LETTER CA -->
+      <map code="0x1006" name="u1006"/><!-- MYANMAR LETTER CHA -->
+      <map code="0x1007" name="u1007"/><!-- MYANMAR LETTER JA -->
+      <map code="0x1008" name="u1008"/><!-- MYANMAR LETTER JHA -->
+      <map code="0x1009" name="u1009"/><!-- MYANMAR LETTER NYA -->
+      <map code="0x100a" name="u100A"/><!-- MYANMAR LETTER NNYA -->
+      <map code="0x100b" name="u100B"/><!-- MYANMAR LETTER TTA -->
+      <map code="0x100c" name="u100C"/><!-- MYANMAR LETTER TTHA -->
+      <map code="0x100d" name="u100D"/><!-- MYANMAR LETTER DDA -->
+      <map code="0x100e" name="u100E"/><!-- MYANMAR LETTER DDHA -->
+      <map code="0x100f" name="u100F"/><!-- MYANMAR LETTER NNA -->
+      <map code="0x1010" name="u1010"/><!-- MYANMAR LETTER TA -->
+      <map code="0x1011" name="u1011"/><!-- MYANMAR LETTER THA -->
+      <map code="0x1012" name="u1012"/><!-- MYANMAR LETTER DA -->
+      <map code="0x1013" name="u1013"/><!-- MYANMAR LETTER DHA -->
+      <map code="0x1014" name="u1014"/><!-- MYANMAR LETTER NA -->
+      <map code="0x1015" name="u1015"/><!-- MYANMAR LETTER PA -->
+      <map code="0x1016" name="u1016"/><!-- MYANMAR LETTER PHA -->
+      <map code="0x1017" name="u1017"/><!-- MYANMAR LETTER BA -->
+      <map code="0x1018" name="u1018"/><!-- MYANMAR LETTER BHA -->
+      <map code="0x1019" name="u1019"/><!-- MYANMAR LETTER MA -->
+      <map code="0x101a" name="u101A"/><!-- MYANMAR LETTER YA -->
+      <map code="0x101b" name="u101B"/><!-- MYANMAR LETTER RA -->
+      <map code="0x101c" name="u101C"/><!-- MYANMAR LETTER LA -->
+      <map code="0x101d" name="u101D"/><!-- MYANMAR LETTER WA -->
+      <map code="0x101e" name="u101E"/><!-- MYANMAR LETTER SA -->
+      <map code="0x101f" name="u101F"/><!-- MYANMAR LETTER HA -->
+      <map code="0x1020" name="u1020"/><!-- MYANMAR LETTER LLA -->
+      <map code="0x1021" name="u1021"/><!-- MYANMAR LETTER A -->
+      <map code="0x1022" name="u1022"/><!-- MYANMAR LETTER SHAN A -->
+      <map code="0x1023" name="u1023"/><!-- MYANMAR LETTER I -->
+      <map code="0x1024" name="u1024"/><!-- MYANMAR LETTER II -->
+      <map code="0x1025" name="u1025"/><!-- MYANMAR LETTER U -->
+      <map code="0x1026" name="u1026"/><!-- MYANMAR LETTER UU -->
+      <map code="0x1027" name="u1027"/><!-- MYANMAR LETTER E -->
+      <map code="0x1028" name="u1028"/><!-- MYANMAR LETTER MON E -->
+      <map code="0x1029" name="u1029"/><!-- MYANMAR LETTER O -->
+      <map code="0x102a" name="u102A"/><!-- MYANMAR LETTER AU -->
+      <map code="0x102b" name="u102B"/><!-- MYANMAR VOWEL SIGN TALL AA -->
+      <map code="0x102c" name="u102C"/><!-- MYANMAR VOWEL SIGN AA -->
+      <map code="0x102d" name="u102D"/><!-- MYANMAR VOWEL SIGN I -->
+      <map code="0x102e" name="u102E"/><!-- MYANMAR VOWEL SIGN II -->
+      <map code="0x102f" name="u102F"/><!-- MYANMAR VOWEL SIGN U -->
+      <map code="0x1030" name="u1030"/><!-- MYANMAR VOWEL SIGN UU -->
+      <map code="0x1031" name="u1031"/><!-- MYANMAR VOWEL SIGN E -->
+      <map code="0x1032" name="u1032"/><!-- MYANMAR VOWEL SIGN AI -->
+      <map code="0x1033" name="u1033"/><!-- MYANMAR VOWEL SIGN MON II -->
+      <map code="0x1034" name="u1034"/><!-- MYANMAR VOWEL SIGN MON O -->
+      <map code="0x1035" name="u1035"/><!-- MYANMAR VOWEL SIGN E ABOVE -->
+      <map code="0x1036" name="u1036"/><!-- MYANMAR SIGN ANUSVARA -->
+      <map code="0x1037" name="u1037"/><!-- MYANMAR SIGN DOT BELOW -->
+      <map code="0x1038" name="u1038"/><!-- MYANMAR SIGN VISARGA -->
+      <map code="0x1039" name="u1039"/><!-- MYANMAR SIGN VIRAMA -->
+      <map code="0x103a" name="u103A"/><!-- MYANMAR SIGN ASAT -->
+      <map code="0x103b" name="u103B"/><!-- MYANMAR CONSONANT SIGN MEDIAL YA -->
+      <map code="0x103c" name="u103C"/><!-- MYANMAR CONSONANT SIGN MEDIAL RA -->
+      <map code="0x103d" name="u103D"/><!-- MYANMAR CONSONANT SIGN MEDIAL WA -->
+      <map code="0x103e" name="u103E"/><!-- MYANMAR CONSONANT SIGN MEDIAL HA -->
+      <map code="0x103f" name="u103F"/><!-- MYANMAR LETTER GREAT SA -->
+      <map code="0x1040" name="u1040"/><!-- MYANMAR DIGIT ZERO -->
+      <map code="0x1041" name="u1041"/><!-- MYANMAR DIGIT ONE -->
+      <map code="0x1042" name="u1042"/><!-- MYANMAR DIGIT TWO -->
+      <map code="0x1043" name="u1043"/><!-- MYANMAR DIGIT THREE -->
+      <map code="0x1044" name="u1044"/><!-- MYANMAR DIGIT FOUR -->
+      <map code="0x1045" name="u1045"/><!-- MYANMAR DIGIT FIVE -->
+      <map code="0x1046" name="u1046"/><!-- MYANMAR DIGIT SIX -->
+      <map code="0x1047" name="u1047"/><!-- MYANMAR DIGIT SEVEN -->
+      <map code="0x1048" name="u1048"/><!-- MYANMAR DIGIT EIGHT -->
+      <map code="0x1049" name="u1049"/><!-- MYANMAR DIGIT NINE -->
+      <map code="0x104a" name="u104A"/><!-- MYANMAR SIGN LITTLE SECTION -->
+      <map code="0x104b" name="u104B"/><!-- MYANMAR SIGN SECTION -->
+      <map code="0x104c" name="u104C"/><!-- MYANMAR SYMBOL LOCATIVE -->
+      <map code="0x104d" name="u104D"/><!-- MYANMAR SYMBOL COMPLETED -->
+      <map code="0x104e" name="u104E"/><!-- MYANMAR SYMBOL AFOREMENTIONED -->
+      <map code="0x104f" name="u104F"/><!-- MYANMAR SYMBOL GENITIVE -->
+      <map code="0x1050" name="u1050"/><!-- MYANMAR LETTER SHA -->
+      <map code="0x1051" name="u1051"/><!-- MYANMAR LETTER SSA -->
+      <map code="0x1052" name="u1052"/><!-- MYANMAR LETTER VOCALIC R -->
+      <map code="0x1053" name="u1053"/><!-- MYANMAR LETTER VOCALIC RR -->
+      <map code="0x1054" name="u1054"/><!-- MYANMAR LETTER VOCALIC L -->
+      <map code="0x1055" name="u1055"/><!-- MYANMAR LETTER VOCALIC LL -->
+      <map code="0x1056" name="u1056"/><!-- MYANMAR VOWEL SIGN VOCALIC R -->
+      <map code="0x1057" name="u1057"/><!-- MYANMAR VOWEL SIGN VOCALIC RR -->
+      <map code="0x1058" name="u1058"/><!-- MYANMAR VOWEL SIGN VOCALIC L -->
+      <map code="0x1059" name="u1059"/><!-- MYANMAR VOWEL SIGN VOCALIC LL -->
+      <map code="0x105a" name="u105A"/><!-- MYANMAR LETTER MON NGA -->
+      <map code="0x105b" name="u105B"/><!-- MYANMAR LETTER MON JHA -->
+      <map code="0x105c" name="u105C"/><!-- MYANMAR LETTER MON BBA -->
+      <map code="0x105d" name="u105D"/><!-- MYANMAR LETTER MON BBE -->
+      <map code="0x105e" name="u105E"/><!-- MYANMAR CONSONANT SIGN MON MEDIAL NA -->
+      <map code="0x105f" name="u105F"/><!-- MYANMAR CONSONANT SIGN MON MEDIAL MA -->
+      <map code="0x1060" name="u1060"/><!-- MYANMAR CONSONANT SIGN MON MEDIAL LA -->
+      <map code="0x1061" name="u1061"/><!-- MYANMAR LETTER SGAW KAREN SHA -->
+      <map code="0x1062" name="u1062"/><!-- MYANMAR VOWEL SIGN SGAW KAREN EU -->
+      <map code="0x1063" name="u1063"/><!-- MYANMAR TONE MARK SGAW KAREN HATHI -->
+      <map code="0x1064" name="u1064"/><!-- MYANMAR TONE MARK SGAW KAREN KE PHO -->
+      <map code="0x1065" name="u1065"/><!-- MYANMAR LETTER WESTERN PWO KAREN THA -->
+      <map code="0x1066" name="u1066"/><!-- MYANMAR LETTER WESTERN PWO KAREN PWA -->
+      <map code="0x1067" name="u1067"/><!-- MYANMAR VOWEL SIGN WESTERN PWO KAREN EU -->
+      <map code="0x1068" name="u1068"/><!-- MYANMAR VOWEL SIGN WESTERN PWO KAREN UE -->
+      <map code="0x1069" name="u1069"/><!-- MYANMAR SIGN WESTERN PWO KAREN TONE-1 -->
+      <map code="0x106a" name="u106A"/><!-- MYANMAR SIGN WESTERN PWO KAREN TONE-2 -->
+      <map code="0x106b" name="u106B"/><!-- MYANMAR SIGN WESTERN PWO KAREN TONE-3 -->
+      <map code="0x106c" name="u106C"/><!-- MYANMAR SIGN WESTERN PWO KAREN TONE-4 -->
+      <map code="0x106d" name="u106D"/><!-- MYANMAR SIGN WESTERN PWO KAREN TONE-5 -->
+      <map code="0x106e" name="u106E"/><!-- MYANMAR LETTER EASTERN PWO KAREN NNA -->
+      <map code="0x106f" name="u106F"/><!-- MYANMAR LETTER EASTERN PWO KAREN YWA -->
+      <map code="0x1070" name="u1070"/><!-- MYANMAR LETTER EASTERN PWO KAREN GHWA -->
+      <map code="0x1071" name="u1071"/><!-- MYANMAR VOWEL SIGN GEBA KAREN I -->
+      <map code="0x1072" name="u1072"/><!-- MYANMAR VOWEL SIGN KAYAH OE -->
+      <map code="0x1073" name="u1073"/><!-- MYANMAR VOWEL SIGN KAYAH U -->
+      <map code="0x1074" name="u1074"/><!-- MYANMAR VOWEL SIGN KAYAH EE -->
+      <map code="0x1075" name="u1075"/><!-- MYANMAR LETTER SHAN KA -->
+      <map code="0x1076" name="u1076"/><!-- MYANMAR LETTER SHAN KHA -->
+      <map code="0x1077" name="u1077"/><!-- MYANMAR LETTER SHAN GA -->
+      <map code="0x1078" name="u1078"/><!-- MYANMAR LETTER SHAN CA -->
+      <map code="0x1079" name="u1079"/><!-- MYANMAR LETTER SHAN ZA -->
+      <map code="0x107a" name="u107A"/><!-- MYANMAR LETTER SHAN NYA -->
+      <map code="0x107b" name="u107B"/><!-- MYANMAR LETTER SHAN DA -->
+      <map code="0x107c" name="u107C"/><!-- MYANMAR LETTER SHAN NA -->
+      <map code="0x107d" name="u107D"/><!-- MYANMAR LETTER SHAN PHA -->
+      <map code="0x107e" name="u107E"/><!-- MYANMAR LETTER SHAN FA -->
+      <map code="0x107f" name="u107F"/><!-- MYANMAR LETTER SHAN BA -->
+      <map code="0x1080" name="u1080"/><!-- MYANMAR LETTER SHAN THA -->
+      <map code="0x1081" name="u1081"/><!-- MYANMAR LETTER SHAN HA -->
+      <map code="0x1082" name="u1082"/><!-- MYANMAR CONSONANT SIGN SHAN MEDIAL WA -->
+      <map code="0x1083" name="u1083"/><!-- MYANMAR VOWEL SIGN SHAN AA -->
+      <map code="0x1084" name="u1084"/><!-- MYANMAR VOWEL SIGN SHAN E -->
+      <map code="0x1085" name="u1085"/><!-- MYANMAR VOWEL SIGN SHAN E ABOVE -->
+      <map code="0x1086" name="u1086"/><!-- MYANMAR VOWEL SIGN SHAN FINAL Y -->
+      <map code="0x1087" name="u1087"/><!-- MYANMAR SIGN SHAN TONE-2 -->
+      <map code="0x1088" name="u1088"/><!-- MYANMAR SIGN SHAN TONE-3 -->
+      <map code="0x1089" name="u1089"/><!-- MYANMAR SIGN SHAN TONE-5 -->
+      <map code="0x108a" name="u108A"/><!-- MYANMAR SIGN SHAN TONE-6 -->
+      <map code="0x108b" name="u108B"/><!-- MYANMAR SIGN SHAN COUNCIL TONE-2 -->
+      <map code="0x108c" name="u108C"/><!-- MYANMAR SIGN SHAN COUNCIL TONE-3 -->
+      <map code="0x108d" name="u108D"/><!-- MYANMAR SIGN SHAN COUNCIL EMPHATIC TONE -->
+      <map code="0x108e" name="u108E"/><!-- MYANMAR LETTER RUMAI PALAUNG FA -->
+      <map code="0x108f" name="u108F"/><!-- MYANMAR SIGN RUMAI PALAUNG TONE-5 -->
+      <map code="0x1090" name="u1090"/><!-- MYANMAR SHAN DIGIT ZERO -->
+      <map code="0x1091" name="u1091"/><!-- MYANMAR SHAN DIGIT ONE -->
+      <map code="0x1092" name="u1092"/><!-- MYANMAR SHAN DIGIT TWO -->
+      <map code="0x1093" name="u1093"/><!-- MYANMAR SHAN DIGIT THREE -->
+      <map code="0x1094" name="u1094"/><!-- MYANMAR SHAN DIGIT FOUR -->
+      <map code="0x1095" name="u1095"/><!-- MYANMAR SHAN DIGIT FIVE -->
+      <map code="0x1096" name="u1096"/><!-- MYANMAR SHAN DIGIT SIX -->
+      <map code="0x1097" name="u1097"/><!-- MYANMAR SHAN DIGIT SEVEN -->
+      <map code="0x1098" name="u1098"/><!-- MYANMAR SHAN DIGIT EIGHT -->
+      <map code="0x1099" name="u1099"/><!-- MYANMAR SHAN DIGIT NINE -->
+      <map code="0x109a" name="u109A"/><!-- MYANMAR SIGN KHAMTI TONE-1 -->
+      <map code="0x109b" name="u109B"/><!-- MYANMAR SIGN KHAMTI TONE-3 -->
+      <map code="0x109c" name="u109C"/><!-- MYANMAR VOWEL SIGN AITON A -->
+      <map code="0x109d" name="u109D"/><!-- MYANMAR VOWEL SIGN AITON AI -->
+      <map code="0x109e" name="u109E"/><!-- MYANMAR SYMBOL SHAN ONE -->
+      <map code="0x109f" name="u109F"/><!-- MYANMAR SYMBOL SHAN EXCLAMATION -->
+      <map code="0x1700" name="u1700"/><!-- TAGALOG LETTER A -->
+      <map code="0x200b" name="u200B"/><!-- ZERO WIDTH SPACE -->
+      <map code="0x200c" name="u200C"/><!-- ZERO WIDTH NON-JOINER -->
+      <map code="0x200d" name="u200D"/><!-- ZERO WIDTH JOINER -->
+      <map code="0x2013" name="endash"/><!-- EN DASH -->
+      <map code="0x2014" name="emdash"/><!-- EM DASH -->
+      <map code="0x2018" name="quoteleft"/><!-- LEFT SINGLE QUOTATION MARK -->
+      <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
+      <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
+      <map code="0x201d" name="quotedblright"/><!-- RIGHT DOUBLE QUOTATION MARK -->
+      <map code="0x2060" name="u2060"/><!-- WORD JOINER -->
+      <map code="0x2260" name="notequal"/><!-- NOT EQUAL TO -->
+      <map code="0x25cc" name="circledash"/><!-- DOTTED CIRCLE -->
+      <map code="0xa92e" name="uA92E"/><!-- KAYAH LI SIGN CWI -->
+      <map code="0xaa60" name="uAA60"/><!-- MYANMAR LETTER KHAMTI GA -->
+      <map code="0xaa61" name="uAA61"/><!-- MYANMAR LETTER KHAMTI CA -->
+      <map code="0xaa62" name="uAA62"/><!-- MYANMAR LETTER KHAMTI CHA -->
+      <map code="0xaa63" name="uAA63"/><!-- MYANMAR LETTER KHAMTI JA -->
+      <map code="0xaa64" name="uAA64"/><!-- MYANMAR LETTER KHAMTI JHA -->
+      <map code="0xaa65" name="uAA65"/><!-- MYANMAR LETTER KHAMTI NYA -->
+      <map code="0xaa66" name="uAA66"/><!-- MYANMAR LETTER KHAMTI TTA -->
+      <map code="0xaa67" name="uAA67"/><!-- MYANMAR LETTER KHAMTI TTHA -->
+      <map code="0xaa68" name="uAA68"/><!-- MYANMAR LETTER KHAMTI DDA -->
+      <map code="0xaa69" name="uAA69"/><!-- MYANMAR LETTER KHAMTI DDHA -->
+      <map code="0xaa6a" name="uAA6A"/><!-- MYANMAR LETTER KHAMTI DHA -->
+      <map code="0xaa6b" name="uAA6B"/><!-- MYANMAR LETTER KHAMTI NA -->
+      <map code="0xaa6c" name="uAA6C"/><!-- MYANMAR LETTER KHAMTI SA -->
+      <map code="0xaa6d" name="uAA6D"/><!-- MYANMAR LETTER KHAMTI HA -->
+      <map code="0xaa6e" name="uAA6E"/><!-- MYANMAR LETTER KHAMTI HHA -->
+      <map code="0xaa6f" name="uAA6F"/><!-- MYANMAR LETTER KHAMTI FA -->
+      <map code="0xaa70" name="uAA70"/><!-- MYANMAR MODIFIER LETTER KHAMTI REDUPLICATION -->
+      <map code="0xaa71" name="uAA71"/><!-- MYANMAR LETTER KHAMTI XA -->
+      <map code="0xaa72" name="uAA72"/><!-- MYANMAR LETTER KHAMTI ZA -->
+      <map code="0xaa73" name="uAA73"/><!-- MYANMAR LETTER KHAMTI RA -->
+      <map code="0xaa74" name="uAA74"/><!-- MYANMAR LOGOGRAM KHAMTI OAY -->
+      <map code="0xaa75" name="uAA75"/><!-- MYANMAR LOGOGRAM KHAMTI QN -->
+      <map code="0xaa76" name="uAA76"/><!-- MYANMAR LOGOGRAM KHAMTI HM -->
+      <map code="0xaa77" name="uAA77"/><!-- MYANMAR SYMBOL AITON EXCLAMATION -->
+      <map code="0xaa78" name="uAA78"/><!-- MYANMAR SYMBOL AITON ONE -->
+      <map code="0xaa79" name="uAA79"/><!-- MYANMAR SYMBOL AITON TWO -->
+      <map code="0xaa7a" name="uAA7A"/><!-- MYANMAR LETTER AITON RA -->
+      <map code="0xaa7b" name="uAA7B"/><!-- MYANMAR SIGN PAO KAREN TONE -->
+    </cmap_format_4>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="numbersign"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="dollar"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="percent"/><!-- PERCENT SIGN -->
+      <map code="0x26" name="ampersand"/><!-- AMPERSAND -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon"/><!-- COLON -->
+      <map code="0x3b" name="semicolon"/><!-- SEMICOLON -->
+      <map code="0x3c" name="less"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="equal"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="greater"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x40" name="at"/><!-- COMMERCIAL AT -->
+      <map code="0x41" name="A"/><!-- LATIN CAPITAL LETTER A -->
+      <map code="0x42" name="B"/><!-- LATIN CAPITAL LETTER B -->
+      <map code="0x43" name="C"/><!-- LATIN CAPITAL LETTER C -->
+      <map code="0x44" name="D"/><!-- LATIN CAPITAL LETTER D -->
+      <map code="0x45" name="E"/><!-- LATIN CAPITAL LETTER E -->
+      <map code="0x46" name="F"/><!-- LATIN CAPITAL LETTER F -->
+      <map code="0x47" name="G"/><!-- LATIN CAPITAL LETTER G -->
+      <map code="0x48" name="H"/><!-- LATIN CAPITAL LETTER H -->
+      <map code="0x49" name="I"/><!-- LATIN CAPITAL LETTER I -->
+      <map code="0x4a" name="J"/><!-- LATIN CAPITAL LETTER J -->
+      <map code="0x4b" name="K"/><!-- LATIN CAPITAL LETTER K -->
+      <map code="0x4c" name="L"/><!-- LATIN CAPITAL LETTER L -->
+      <map code="0x4d" name="M"/><!-- LATIN CAPITAL LETTER M -->
+      <map code="0x4e" name="N"/><!-- LATIN CAPITAL LETTER N -->
+      <map code="0x4f" name="O"/><!-- LATIN CAPITAL LETTER O -->
+      <map code="0x50" name="P"/><!-- LATIN CAPITAL LETTER P -->
+      <map code="0x51" name="Q"/><!-- LATIN CAPITAL LETTER Q -->
+      <map code="0x52" name="R"/><!-- LATIN CAPITAL LETTER R -->
+      <map code="0x53" name="S"/><!-- LATIN CAPITAL LETTER S -->
+      <map code="0x54" name="T"/><!-- LATIN CAPITAL LETTER T -->
+      <map code="0x55" name="U"/><!-- LATIN CAPITAL LETTER U -->
+      <map code="0x56" name="V"/><!-- LATIN CAPITAL LETTER V -->
+      <map code="0x57" name="W"/><!-- LATIN CAPITAL LETTER W -->
+      <map code="0x58" name="X"/><!-- LATIN CAPITAL LETTER X -->
+      <map code="0x59" name="Y"/><!-- LATIN CAPITAL LETTER Y -->
+      <map code="0x5a" name="Z"/><!-- LATIN CAPITAL LETTER Z -->
+      <map code="0x5b" name="bracketleft"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="backslash"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="bracketright"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="asciicircum"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="underscore"/><!-- LOW LINE -->
+      <map code="0x60" name="grave"/><!-- GRAVE ACCENT -->
+      <map code="0x61" name="a"/><!-- LATIN SMALL LETTER A -->
+      <map code="0x62" name="b"/><!-- LATIN SMALL LETTER B -->
+      <map code="0x63" name="c"/><!-- LATIN SMALL LETTER C -->
+      <map code="0x64" name="d"/><!-- LATIN SMALL LETTER D -->
+      <map code="0x65" name="e"/><!-- LATIN SMALL LETTER E -->
+      <map code="0x66" name="f"/><!-- LATIN SMALL LETTER F -->
+      <map code="0x67" name="g"/><!-- LATIN SMALL LETTER G -->
+      <map code="0x68" name="h"/><!-- LATIN SMALL LETTER H -->
+      <map code="0x69" name="i"/><!-- LATIN SMALL LETTER I -->
+      <map code="0x6a" name="j"/><!-- LATIN SMALL LETTER J -->
+      <map code="0x6b" name="k"/><!-- LATIN SMALL LETTER K -->
+      <map code="0x6c" name="l"/><!-- LATIN SMALL LETTER L -->
+      <map code="0x6d" name="m"/><!-- LATIN SMALL LETTER M -->
+      <map code="0x6e" name="n"/><!-- LATIN SMALL LETTER N -->
+      <map code="0x6f" name="o"/><!-- LATIN SMALL LETTER O -->
+      <map code="0x70" name="p"/><!-- LATIN SMALL LETTER P -->
+      <map code="0x71" name="q"/><!-- LATIN SMALL LETTER Q -->
+      <map code="0x72" name="r"/><!-- LATIN SMALL LETTER R -->
+      <map code="0x73" name="s"/><!-- LATIN SMALL LETTER S -->
+      <map code="0x74" name="t"/><!-- LATIN SMALL LETTER T -->
+      <map code="0x75" name="u"/><!-- LATIN SMALL LETTER U -->
+      <map code="0x76" name="v"/><!-- LATIN SMALL LETTER V -->
+      <map code="0x77" name="w"/><!-- LATIN SMALL LETTER W -->
+      <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
+      <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
+      <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0x7b" name="braceleft"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="braceright"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="asciitilde"/><!-- TILDE -->
+      <map code="0xd7" name="multiply"/><!-- MULTIPLICATION SIGN -->
+      <map code="0x1000" name="u1000"/><!-- MYANMAR LETTER KA -->
+      <map code="0x1001" name="u1001"/><!-- MYANMAR LETTER KHA -->
+      <map code="0x1002" name="u1002"/><!-- MYANMAR LETTER GA -->
+      <map code="0x1003" name="u1003"/><!-- MYANMAR LETTER GHA -->
+      <map code="0x1004" name="u1004"/><!-- MYANMAR LETTER NGA -->
+      <map code="0x1005" name="u1005"/><!-- MYANMAR LETTER CA -->
+      <map code="0x1006" name="u1006"/><!-- MYANMAR LETTER CHA -->
+      <map code="0x1007" name="u1007"/><!-- MYANMAR LETTER JA -->
+      <map code="0x1008" name="u1008"/><!-- MYANMAR LETTER JHA -->
+      <map code="0x1009" name="u1009"/><!-- MYANMAR LETTER NYA -->
+      <map code="0x100a" name="u100A"/><!-- MYANMAR LETTER NNYA -->
+      <map code="0x100b" name="u100B"/><!-- MYANMAR LETTER TTA -->
+      <map code="0x100c" name="u100C"/><!-- MYANMAR LETTER TTHA -->
+      <map code="0x100d" name="u100D"/><!-- MYANMAR LETTER DDA -->
+      <map code="0x100e" name="u100E"/><!-- MYANMAR LETTER DDHA -->
+      <map code="0x100f" name="u100F"/><!-- MYANMAR LETTER NNA -->
+      <map code="0x1010" name="u1010"/><!-- MYANMAR LETTER TA -->
+      <map code="0x1011" name="u1011"/><!-- MYANMAR LETTER THA -->
+      <map code="0x1012" name="u1012"/><!-- MYANMAR LETTER DA -->
+      <map code="0x1013" name="u1013"/><!-- MYANMAR LETTER DHA -->
+      <map code="0x1014" name="u1014"/><!-- MYANMAR LETTER NA -->
+      <map code="0x1015" name="u1015"/><!-- MYANMAR LETTER PA -->
+      <map code="0x1016" name="u1016"/><!-- MYANMAR LETTER PHA -->
+      <map code="0x1017" name="u1017"/><!-- MYANMAR LETTER BA -->
+      <map code="0x1018" name="u1018"/><!-- MYANMAR LETTER BHA -->
+      <map code="0x1019" name="u1019"/><!-- MYANMAR LETTER MA -->
+      <map code="0x101a" name="u101A"/><!-- MYANMAR LETTER YA -->
+      <map code="0x101b" name="u101B"/><!-- MYANMAR LETTER RA -->
+      <map code="0x101c" name="u101C"/><!-- MYANMAR LETTER LA -->
+      <map code="0x101d" name="u101D"/><!-- MYANMAR LETTER WA -->
+      <map code="0x101e" name="u101E"/><!-- MYANMAR LETTER SA -->
+      <map code="0x101f" name="u101F"/><!-- MYANMAR LETTER HA -->
+      <map code="0x1020" name="u1020"/><!-- MYANMAR LETTER LLA -->
+      <map code="0x1021" name="u1021"/><!-- MYANMAR LETTER A -->
+      <map code="0x1022" name="u1022"/><!-- MYANMAR LETTER SHAN A -->
+      <map code="0x1023" name="u1023"/><!-- MYANMAR LETTER I -->
+      <map code="0x1024" name="u1024"/><!-- MYANMAR LETTER II -->
+      <map code="0x1025" name="u1025"/><!-- MYANMAR LETTER U -->
+      <map code="0x1026" name="u1026"/><!-- MYANMAR LETTER UU -->
+      <map code="0x1027" name="u1027"/><!-- MYANMAR LETTER E -->
+      <map code="0x1028" name="u1028"/><!-- MYANMAR LETTER MON E -->
+      <map code="0x1029" name="u1029"/><!-- MYANMAR LETTER O -->
+      <map code="0x102a" name="u102A"/><!-- MYANMAR LETTER AU -->
+      <map code="0x102b" name="u102B"/><!-- MYANMAR VOWEL SIGN TALL AA -->
+      <map code="0x102c" name="u102C"/><!-- MYANMAR VOWEL SIGN AA -->
+      <map code="0x102d" name="u102D"/><!-- MYANMAR VOWEL SIGN I -->
+      <map code="0x102e" name="u102E"/><!-- MYANMAR VOWEL SIGN II -->
+      <map code="0x102f" name="u102F"/><!-- MYANMAR VOWEL SIGN U -->
+      <map code="0x1030" name="u1030"/><!-- MYANMAR VOWEL SIGN UU -->
+      <map code="0x1031" name="u1031"/><!-- MYANMAR VOWEL SIGN E -->
+      <map code="0x1032" name="u1032"/><!-- MYANMAR VOWEL SIGN AI -->
+      <map code="0x1033" name="u1033"/><!-- MYANMAR VOWEL SIGN MON II -->
+      <map code="0x1034" name="u1034"/><!-- MYANMAR VOWEL SIGN MON O -->
+      <map code="0x1035" name="u1035"/><!-- MYANMAR VOWEL SIGN E ABOVE -->
+      <map code="0x1036" name="u1036"/><!-- MYANMAR SIGN ANUSVARA -->
+      <map code="0x1037" name="u1037"/><!-- MYANMAR SIGN DOT BELOW -->
+      <map code="0x1038" name="u1038"/><!-- MYANMAR SIGN VISARGA -->
+      <map code="0x1039" name="u1039"/><!-- MYANMAR SIGN VIRAMA -->
+      <map code="0x103a" name="u103A"/><!-- MYANMAR SIGN ASAT -->
+      <map code="0x103b" name="u103B"/><!-- MYANMAR CONSONANT SIGN MEDIAL YA -->
+      <map code="0x103c" name="u103C"/><!-- MYANMAR CONSONANT SIGN MEDIAL RA -->
+      <map code="0x103d" name="u103D"/><!-- MYANMAR CONSONANT SIGN MEDIAL WA -->
+      <map code="0x103e" name="u103E"/><!-- MYANMAR CONSONANT SIGN MEDIAL HA -->
+      <map code="0x103f" name="u103F"/><!-- MYANMAR LETTER GREAT SA -->
+      <map code="0x1040" name="u1040"/><!-- MYANMAR DIGIT ZERO -->
+      <map code="0x1041" name="u1041"/><!-- MYANMAR DIGIT ONE -->
+      <map code="0x1042" name="u1042"/><!-- MYANMAR DIGIT TWO -->
+      <map code="0x1043" name="u1043"/><!-- MYANMAR DIGIT THREE -->
+      <map code="0x1044" name="u1044"/><!-- MYANMAR DIGIT FOUR -->
+      <map code="0x1045" name="u1045"/><!-- MYANMAR DIGIT FIVE -->
+      <map code="0x1046" name="u1046"/><!-- MYANMAR DIGIT SIX -->
+      <map code="0x1047" name="u1047"/><!-- MYANMAR DIGIT SEVEN -->
+      <map code="0x1048" name="u1048"/><!-- MYANMAR DIGIT EIGHT -->
+      <map code="0x1049" name="u1049"/><!-- MYANMAR DIGIT NINE -->
+      <map code="0x104a" name="u104A"/><!-- MYANMAR SIGN LITTLE SECTION -->
+      <map code="0x104b" name="u104B"/><!-- MYANMAR SIGN SECTION -->
+      <map code="0x104c" name="u104C"/><!-- MYANMAR SYMBOL LOCATIVE -->
+      <map code="0x104d" name="u104D"/><!-- MYANMAR SYMBOL COMPLETED -->
+      <map code="0x104e" name="u104E"/><!-- MYANMAR SYMBOL AFOREMENTIONED -->
+      <map code="0x104f" name="u104F"/><!-- MYANMAR SYMBOL GENITIVE -->
+      <map code="0x1050" name="u1050"/><!-- MYANMAR LETTER SHA -->
+      <map code="0x1051" name="u1051"/><!-- MYANMAR LETTER SSA -->
+      <map code="0x1052" name="u1052"/><!-- MYANMAR LETTER VOCALIC R -->
+      <map code="0x1053" name="u1053"/><!-- MYANMAR LETTER VOCALIC RR -->
+      <map code="0x1054" name="u1054"/><!-- MYANMAR LETTER VOCALIC L -->
+      <map code="0x1055" name="u1055"/><!-- MYANMAR LETTER VOCALIC LL -->
+      <map code="0x1056" name="u1056"/><!-- MYANMAR VOWEL SIGN VOCALIC R -->
+      <map code="0x1057" name="u1057"/><!-- MYANMAR VOWEL SIGN VOCALIC RR -->
+      <map code="0x1058" name="u1058"/><!-- MYANMAR VOWEL SIGN VOCALIC L -->
+      <map code="0x1059" name="u1059"/><!-- MYANMAR VOWEL SIGN VOCALIC LL -->
+      <map code="0x105a" name="u105A"/><!-- MYANMAR LETTER MON NGA -->
+      <map code="0x105b" name="u105B"/><!-- MYANMAR LETTER MON JHA -->
+      <map code="0x105c" name="u105C"/><!-- MYANMAR LETTER MON BBA -->
+      <map code="0x105d" name="u105D"/><!-- MYANMAR LETTER MON BBE -->
+      <map code="0x105e" name="u105E"/><!-- MYANMAR CONSONANT SIGN MON MEDIAL NA -->
+      <map code="0x105f" name="u105F"/><!-- MYANMAR CONSONANT SIGN MON MEDIAL MA -->
+      <map code="0x1060" name="u1060"/><!-- MYANMAR CONSONANT SIGN MON MEDIAL LA -->
+      <map code="0x1061" name="u1061"/><!-- MYANMAR LETTER SGAW KAREN SHA -->
+      <map code="0x1062" name="u1062"/><!-- MYANMAR VOWEL SIGN SGAW KAREN EU -->
+      <map code="0x1063" name="u1063"/><!-- MYANMAR TONE MARK SGAW KAREN HATHI -->
+      <map code="0x1064" name="u1064"/><!-- MYANMAR TONE MARK SGAW KAREN KE PHO -->
+      <map code="0x1065" name="u1065"/><!-- MYANMAR LETTER WESTERN PWO KAREN THA -->
+      <map code="0x1066" name="u1066"/><!-- MYANMAR LETTER WESTERN PWO KAREN PWA -->
+      <map code="0x1067" name="u1067"/><!-- MYANMAR VOWEL SIGN WESTERN PWO KAREN EU -->
+      <map code="0x1068" name="u1068"/><!-- MYANMAR VOWEL SIGN WESTERN PWO KAREN UE -->
+      <map code="0x1069" name="u1069"/><!-- MYANMAR SIGN WESTERN PWO KAREN TONE-1 -->
+      <map code="0x106a" name="u106A"/><!-- MYANMAR SIGN WESTERN PWO KAREN TONE-2 -->
+      <map code="0x106b" name="u106B"/><!-- MYANMAR SIGN WESTERN PWO KAREN TONE-3 -->
+      <map code="0x106c" name="u106C"/><!-- MYANMAR SIGN WESTERN PWO KAREN TONE-4 -->
+      <map code="0x106d" name="u106D"/><!-- MYANMAR SIGN WESTERN PWO KAREN TONE-5 -->
+      <map code="0x106e" name="u106E"/><!-- MYANMAR LETTER EASTERN PWO KAREN NNA -->
+      <map code="0x106f" name="u106F"/><!-- MYANMAR LETTER EASTERN PWO KAREN YWA -->
+      <map code="0x1070" name="u1070"/><!-- MYANMAR LETTER EASTERN PWO KAREN GHWA -->
+      <map code="0x1071" name="u1071"/><!-- MYANMAR VOWEL SIGN GEBA KAREN I -->
+      <map code="0x1072" name="u1072"/><!-- MYANMAR VOWEL SIGN KAYAH OE -->
+      <map code="0x1073" name="u1073"/><!-- MYANMAR VOWEL SIGN KAYAH U -->
+      <map code="0x1074" name="u1074"/><!-- MYANMAR VOWEL SIGN KAYAH EE -->
+      <map code="0x1075" name="u1075"/><!-- MYANMAR LETTER SHAN KA -->
+      <map code="0x1076" name="u1076"/><!-- MYANMAR LETTER SHAN KHA -->
+      <map code="0x1077" name="u1077"/><!-- MYANMAR LETTER SHAN GA -->
+      <map code="0x1078" name="u1078"/><!-- MYANMAR LETTER SHAN CA -->
+      <map code="0x1079" name="u1079"/><!-- MYANMAR LETTER SHAN ZA -->
+      <map code="0x107a" name="u107A"/><!-- MYANMAR LETTER SHAN NYA -->
+      <map code="0x107b" name="u107B"/><!-- MYANMAR LETTER SHAN DA -->
+      <map code="0x107c" name="u107C"/><!-- MYANMAR LETTER SHAN NA -->
+      <map code="0x107d" name="u107D"/><!-- MYANMAR LETTER SHAN PHA -->
+      <map code="0x107e" name="u107E"/><!-- MYANMAR LETTER SHAN FA -->
+      <map code="0x107f" name="u107F"/><!-- MYANMAR LETTER SHAN BA -->
+      <map code="0x1080" name="u1080"/><!-- MYANMAR LETTER SHAN THA -->
+      <map code="0x1081" name="u1081"/><!-- MYANMAR LETTER SHAN HA -->
+      <map code="0x1082" name="u1082"/><!-- MYANMAR CONSONANT SIGN SHAN MEDIAL WA -->
+      <map code="0x1083" name="u1083"/><!-- MYANMAR VOWEL SIGN SHAN AA -->
+      <map code="0x1084" name="u1084"/><!-- MYANMAR VOWEL SIGN SHAN E -->
+      <map code="0x1085" name="u1085"/><!-- MYANMAR VOWEL SIGN SHAN E ABOVE -->
+      <map code="0x1086" name="u1086"/><!-- MYANMAR VOWEL SIGN SHAN FINAL Y -->
+      <map code="0x1087" name="u1087"/><!-- MYANMAR SIGN SHAN TONE-2 -->
+      <map code="0x1088" name="u1088"/><!-- MYANMAR SIGN SHAN TONE-3 -->
+      <map code="0x1089" name="u1089"/><!-- MYANMAR SIGN SHAN TONE-5 -->
+      <map code="0x108a" name="u108A"/><!-- MYANMAR SIGN SHAN TONE-6 -->
+      <map code="0x108b" name="u108B"/><!-- MYANMAR SIGN SHAN COUNCIL TONE-2 -->
+      <map code="0x108c" name="u108C"/><!-- MYANMAR SIGN SHAN COUNCIL TONE-3 -->
+      <map code="0x108d" name="u108D"/><!-- MYANMAR SIGN SHAN COUNCIL EMPHATIC TONE -->
+      <map code="0x108e" name="u108E"/><!-- MYANMAR LETTER RUMAI PALAUNG FA -->
+      <map code="0x108f" name="u108F"/><!-- MYANMAR SIGN RUMAI PALAUNG TONE-5 -->
+      <map code="0x1090" name="u1090"/><!-- MYANMAR SHAN DIGIT ZERO -->
+      <map code="0x1091" name="u1091"/><!-- MYANMAR SHAN DIGIT ONE -->
+      <map code="0x1092" name="u1092"/><!-- MYANMAR SHAN DIGIT TWO -->
+      <map code="0x1093" name="u1093"/><!-- MYANMAR SHAN DIGIT THREE -->
+      <map code="0x1094" name="u1094"/><!-- MYANMAR SHAN DIGIT FOUR -->
+      <map code="0x1095" name="u1095"/><!-- MYANMAR SHAN DIGIT FIVE -->
+      <map code="0x1096" name="u1096"/><!-- MYANMAR SHAN DIGIT SIX -->
+      <map code="0x1097" name="u1097"/><!-- MYANMAR SHAN DIGIT SEVEN -->
+      <map code="0x1098" name="u1098"/><!-- MYANMAR SHAN DIGIT EIGHT -->
+      <map code="0x1099" name="u1099"/><!-- MYANMAR SHAN DIGIT NINE -->
+      <map code="0x109a" name="u109A"/><!-- MYANMAR SIGN KHAMTI TONE-1 -->
+      <map code="0x109b" name="u109B"/><!-- MYANMAR SIGN KHAMTI TONE-3 -->
+      <map code="0x109c" name="u109C"/><!-- MYANMAR VOWEL SIGN AITON A -->
+      <map code="0x109d" name="u109D"/><!-- MYANMAR VOWEL SIGN AITON AI -->
+      <map code="0x109e" name="u109E"/><!-- MYANMAR SYMBOL SHAN ONE -->
+      <map code="0x109f" name="u109F"/><!-- MYANMAR SYMBOL SHAN EXCLAMATION -->
+      <map code="0x1700" name="u1700"/><!-- TAGALOG LETTER A -->
+      <map code="0x200b" name="u200B"/><!-- ZERO WIDTH SPACE -->
+      <map code="0x200c" name="u200C"/><!-- ZERO WIDTH NON-JOINER -->
+      <map code="0x200d" name="u200D"/><!-- ZERO WIDTH JOINER -->
+      <map code="0x2013" name="endash"/><!-- EN DASH -->
+      <map code="0x2014" name="emdash"/><!-- EM DASH -->
+      <map code="0x2018" name="quoteleft"/><!-- LEFT SINGLE QUOTATION MARK -->
+      <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
+      <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
+      <map code="0x201d" name="quotedblright"/><!-- RIGHT DOUBLE QUOTATION MARK -->
+      <map code="0x2060" name="u2060"/><!-- WORD JOINER -->
+      <map code="0x2260" name="notequal"/><!-- NOT EQUAL TO -->
+      <map code="0x25cc" name="circledash"/><!-- DOTTED CIRCLE -->
+      <map code="0xa92e" name="uA92E"/><!-- KAYAH LI SIGN CWI -->
+      <map code="0xaa60" name="uAA60"/><!-- MYANMAR LETTER KHAMTI GA -->
+      <map code="0xaa61" name="uAA61"/><!-- MYANMAR LETTER KHAMTI CA -->
+      <map code="0xaa62" name="uAA62"/><!-- MYANMAR LETTER KHAMTI CHA -->
+      <map code="0xaa63" name="uAA63"/><!-- MYANMAR LETTER KHAMTI JA -->
+      <map code="0xaa64" name="uAA64"/><!-- MYANMAR LETTER KHAMTI JHA -->
+      <map code="0xaa65" name="uAA65"/><!-- MYANMAR LETTER KHAMTI NYA -->
+      <map code="0xaa66" name="uAA66"/><!-- MYANMAR LETTER KHAMTI TTA -->
+      <map code="0xaa67" name="uAA67"/><!-- MYANMAR LETTER KHAMTI TTHA -->
+      <map code="0xaa68" name="uAA68"/><!-- MYANMAR LETTER KHAMTI DDA -->
+      <map code="0xaa69" name="uAA69"/><!-- MYANMAR LETTER KHAMTI DDHA -->
+      <map code="0xaa6a" name="uAA6A"/><!-- MYANMAR LETTER KHAMTI DHA -->
+      <map code="0xaa6b" name="uAA6B"/><!-- MYANMAR LETTER KHAMTI NA -->
+      <map code="0xaa6c" name="uAA6C"/><!-- MYANMAR LETTER KHAMTI SA -->
+      <map code="0xaa6d" name="uAA6D"/><!-- MYANMAR LETTER KHAMTI HA -->
+      <map code="0xaa6e" name="uAA6E"/><!-- MYANMAR LETTER KHAMTI HHA -->
+      <map code="0xaa6f" name="uAA6F"/><!-- MYANMAR LETTER KHAMTI FA -->
+      <map code="0xaa70" name="uAA70"/><!-- MYANMAR MODIFIER LETTER KHAMTI REDUPLICATION -->
+      <map code="0xaa71" name="uAA71"/><!-- MYANMAR LETTER KHAMTI XA -->
+      <map code="0xaa72" name="uAA72"/><!-- MYANMAR LETTER KHAMTI ZA -->
+      <map code="0xaa73" name="uAA73"/><!-- MYANMAR LETTER KHAMTI RA -->
+      <map code="0xaa74" name="uAA74"/><!-- MYANMAR LOGOGRAM KHAMTI OAY -->
+      <map code="0xaa75" name="uAA75"/><!-- MYANMAR LOGOGRAM KHAMTI QN -->
+      <map code="0xaa76" name="uAA76"/><!-- MYANMAR LOGOGRAM KHAMTI HM -->
+      <map code="0xaa77" name="uAA77"/><!-- MYANMAR SYMBOL AITON EXCLAMATION -->
+      <map code="0xaa78" name="uAA78"/><!-- MYANMAR SYMBOL AITON ONE -->
+      <map code="0xaa79" name="uAA79"/><!-- MYANMAR SYMBOL AITON TWO -->
+      <map code="0xaa7a" name="uAA7A"/><!-- MYANMAR LETTER AITON RA -->
+      <map code="0xaa7b" name="uAA7B"/><!-- MYANMAR SIGN PAO KAREN TONE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>

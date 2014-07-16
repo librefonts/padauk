@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <prep>
+    <assembly>
+      PUSHW[ ]  /* 1 value pushed */
+      0
+      CALL[ ]
+      SVTCA[0]
+      PUSHW[ ]  /* 3 values pushed */
+      1 8 2
+      CALL[ ]
+      SVTCA[1]
+      PUSHW[ ]  /* 3 values pushed */
+      9 9 2
+      CALL[ ]
+      SVTCA[1]
+      PUSHW[ ]  /* 8 values pushed */
+      9 50 41 36 26 18 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      10 47 39 30 22 13 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      11 44 36 28 20 12 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      12 52 42 33 24 14 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      13 103 84 66 40 28 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      14 61 50 39 28 20 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      15 61 50 39 28 20 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      16 85 69 54 39 27 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      17 33 27 21 15 9 0 8
+      CALL[ ]
+      SVTCA[0]
+      PUSHW[ ]  /* 8 values pushed */
+      1 50 41 36 26 18 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      2 75 61 48 34 21 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      3 47 39 30 22 13 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      4 61 50 39 28 20 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      5 61 50 39 28 20 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      6 83 68 53 38 27 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      7 33 27 21 15 9 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      8 99 81 63 45 27 0 8
+      CALL[ ]
+      SVTCA[0]
+      PUSHW[ ]  /* 3 values pushed */
+      18 3 7
+      CALL[ ]
+      PUSHW[ ]  /* 1 value pushed */
+      0
+      DUP[ ]
+      RCVT[ ]
+      RDTG[ ]
+      ROUND[01]
+      RTG[ ]
+      WCVTP[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      134 20 1
+      DELTAC2[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      207 20 1
+      DELTAC1[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      223 20 1
+      DELTAC1[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      255 20 1
+      DELTAC1[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      239 20 1
+      DELTAC1[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      15 20 1
+      DELTAC2[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      63 20 1
+      DELTAC2[ ]
+    </assembly>
+  </prep>
+
+</ttFont>
