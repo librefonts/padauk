@@ -1,0 +1,218 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: áá­áá±á¬ááº
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright SIL International, all rights reserved
+    License: Copyright SIL International, all rights reserved
+    License url: http://scripts.sil.org/ofl
+    Version: Version 2.8
+    Vendor: SIL
+    Vendor url: http://scripts.sil.org
+    Designer: Debbi Hosken
+    Glyph count: 454
+    Character count: 298
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 47
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Padauk
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2002-2010 SIL International. Derived from Padauk Super by ttfbuilder v0.33
+    License: Released under the Open Font License.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 2.7
+    Vendor: SIL
+    Vendor url: http://scripts.sil.org
+    Designer: Debbi Hosken
+    Glyph count: 454
+    Character count: 298
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 47
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Padauk
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2002-2010 SIL International. Derived from Padauk Super Book by ttfbuilder v0.33
+    License: Released under the Open Font License.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 2.7
+    Vendor: SIL
+    Vendor url: http://scripts.sil.org
+    Designer: Debbi Hosken
+    Glyph count: 454
+    Character count: 298
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 47
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: áá­áá±á¬ááº
+    Sub family: áá¬áá¯á¶á¸áá²
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright SIL International, all rights reserved
+    License: Copyright SIL International, all rights reserved
+    License url: http://scripts.sil.org/ofl
+    Version: Version 2.8
+    Vendor: SIL
+    Vendor url: http://scripts.sil.org
+    Designer: Debbi Hosken
+    Glyph count: 454
+    Character count: 298
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 47
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Padauk
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2002-2010 SIL International. Derived from Padauk Super Book Bold by ttfbuilder v0.33
+    License: Released under the Open Font License.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 2.7
+    Vendor: SIL
+    Vendor url: http://scripts.sil.org
+    Designer: Debbi Hosken
+    Glyph count: 454
+    Character count: 298
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 47
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Padauk
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2002-2010 SIL International. Derived from Padauk Super Bold by ttfbuilder v0.33
+    License: Released under the Open Font License.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 2.7
+    Vendor: SIL
+    Vendor url: http://scripts.sil.org
+    Designer: Debbi Hosken
+    Glyph count: 454
+    Character count: 298
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 47
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23

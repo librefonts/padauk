@@ -1,0 +1,33 @@
+{
+  "name": "Padauk",
+  "designer": "Debbi Hosken",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 44721,
+  "fonts": [
+    {
+      "name": "Padauk",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Padauk-Bold.ttf",
+      "postScriptName": "PadaukBold",
+      "fullName": "Padauk Bold",
+      "copyright": "Copyright (c) 2002-2010 SIL International. Derived from Padauk Super Bold by ttfbuilder v0.33"
+    },
+    {
+      "name": "Padauk",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Padauk-Regular.ttf",
+      "postScriptName": "PadaukRegular",
+      "fullName": "Padauk",
+      "copyright": "Copyright (c) 2002-2010 SIL International. Derived from Padauk Super Book by ttfbuilder v0.33"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}

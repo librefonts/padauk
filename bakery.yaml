@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [Padauk-Regular.ttf.ttx, Padauk-Bold.ttf.ttx, src/font-source/padauk_src.ttf.ttx,
+  src/font-source/padaukbook_src.ttf.ttx, src/font-source/padaukbookbold_src.ttf.ttx,
+  src/font-source/padaukbold_src.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
